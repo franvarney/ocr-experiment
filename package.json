@@ -1,0 +1,28 @@
+{
+  "name": "ocr-experiment",
+  "version": "0.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "string-hash": "1.1.1"
+  },
+  "devDependencies": {
+    "code": "4.0.0",
+    "lab": "11.2.1"
+  },
+  "scripts": {
+    "test": "lab -cv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franvarney/ocr-experiment.git"
+  },
+  "author": "Francesca Varney <fran.varn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franvarney/ocr-experiment/issues"
+  },
+  "homepage": "https://github.com/franvarney/ocr-experiment#readme"
+}
